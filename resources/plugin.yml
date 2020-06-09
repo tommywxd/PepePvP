@@ -1,0 +1,13 @@
+name: PepePvP
+main: xyz.pepepvp.core.Main
+version: 0.1
+commands:
+  masssay:
+    description: Mass Say.
+    usage: /masssay
+  goaway:
+    description: Go Away.
+    usage: /goaway
+  cnpc:
+    description: Create NPC.
+    usage: /cnpc
